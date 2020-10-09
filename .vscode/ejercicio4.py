@@ -1,6 +1,6 @@
 def costoydescuento():
     #datos de entrada
-    costo =float(input("ingrese el precio y el descuento : "))
+    costo =float(input("ingrese el precio: "))
     #proceso
     if costo > 0:
 
